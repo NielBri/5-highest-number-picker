@@ -29,3 +29,4 @@ def highest_number(num1, num2, num3, num4, num5):
 res = highest_number(num1, num2, num3, num4, num5)
 
 # Print out the result
+print("The highest number is: ", res)
