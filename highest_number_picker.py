@@ -26,4 +26,6 @@ def highest_number(num1, num2, num3, num4, num5):
     return highest
 
 # Add a function that stores the input with the comparison of numbers
+res = highest_number(num1, num2, num3, num4, num5)
+
 # Print out the result
